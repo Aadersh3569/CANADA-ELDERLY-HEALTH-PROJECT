@@ -1,0 +1,44 @@
+﻿"Archived - Life satisfaction, satisfied or very satisfied, by age group 1 2 3 4 5 6"
+"Frequency: Occasional"
+"Table: 13-10-0096-05"
+"Release date: 2023-11-06"
+"Geography: Province or territory"
+""
+""
+
+"Geography","Canada (excluding territories) 3",,,
+"Sex","Both sexes",,,
+"Indicators","Life satisfaction, satisfied or very satisfied 7",,,
+"Characteristics 5 8 9 10 11 12 13 14 15","Number of persons",,"Percent",
+"Age group","2021","2022","2021","2022"
+"Total, 12 years and over","29,070,000","28,361,800","92.2","87.2"
+"12 to 17 years","2,205,100","2,217,900","95.0","90.8"
+"18 to 34 years","7,676,400","7,181,300","93.6","86.9"
+"35 to 49 years","6,720,200","6,491,600","92.4","87.0"
+"50 to 64 years","6,745,600","6,494,800","90.8","86.1"
+"65 years and over","5,722,700","5,976,100","90.9","87.6"
+
+
+
+
+Footnotes:
+1,"Source: Statistics Canada, Canadian Community Health Survey (CCHS)"
+2,"All estimates in this table are calculated excluding non-response categories ("refusal", "don't know", and "not stated") in the denominator."
+3,"Data for the Canadian Community Health Survey (CCHS) are collected yearly from a sample of approximately 65,000 respondents. The Canadian Health Indicators are tabulated by sex and age group in two main tables. The table 13-10-0096-01 presents the most up-to-date population health estimates for the ten provinces and is updated yearly. The table 13-10-0113-01 (to be released in autumn of 2017) presents estimates from two-year combined data and features breakdowns by all provinces and territories as well as by health regions. These estimates are less current than annual estimates, but have higher precision given the larger sample (less variability). Users should refer to the annual data table 13-10-0096-01 as the primary source for the most current estimates from the survey as well as to obtain data from previous years (where available). However, where data quality flags indicate suppression (F) or higher variability (E), the two-year data table 13-10-0113-01 should be used."
+4,"As a result of the 2015 redesign, Canadian Community Health Survey CCHS has a new collection strategy, a new sample design, and has undergone major content revisions. With all these factors taken together, caution should be taken when comparing data from previous cycles to data released for the 2015 cycle onwards."
+5,"The COVID-19 pandemic had major impacts on the data collection operations for the Canadian Community Health Survey (CCHS) 2020. The collection was stopped mid-March, towards the end of the first collection period, and did not resume until September. The second, third and fourth quarterly samples were collected during very short collection periods, each of about five weeks, from September to December. The impossibility of conducting in-person interviews, the shorter collection periods and collection capacity issues resulted in a significant decrease in the response rates. As for previous CCHS cycles, survey weights were adjusted to minimise any potential bias that could arise from survey non-response; non-response adjustments and calibration using available auxiliary information were applied and are reflected in the survey weights provided with the data file. Extensive validations of survey estimates were also performed and examined from a bias analysis perspective. Despite these rigorous adjustments and validations, the high non-response increases the risk of a remaining bias and the magnitude with which such a bias could impact estimates produced using the survey data. Therefore, users are advised to use the CCHS 2020 data with caution, especially when creating estimates for small sub-populations or when comparing to other CCHS years."
+6,"Due to changes in the survey coverage for the 2023 cycle (covering adults only), this table will now only be made available for historical revisions. In place of this table, please consult table <a href="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310090501" rel="external noopener noreferrer" target="_blank">13-10-0905-01 (opens new window)</a>."
+7,"Population aged 12 and over who reported being satisfied or very satisfied with their life in general. Life satisfaction is based on a self-reported score from 0 to 10 for how respondents feel about their life as a whole at the moment. Satisfied or very satisfied represents those who indicated a value of 6 or more out of 10."
+8,"The confidence interval illustrates the degree of variability associated with a rate. Wide confidence intervals indicate high variability, thus, these rates should be interpreted with due caution. When comparing estimates, it is important to use confidence intervals to determine if differences between values are statistically significant."
+9,"Bootstrapping techniques were used to produce the 95% confidence intervals (CIs)."
+10,"Data with a coefficient of variation (CV) from 15.1% to 35.0% are identified as follows: (E) use with caution."
+11,"Data with a coefficient of variation (CV) greater than 35.0% or that did not meet the minimum sample size requirement were suppressed due to extreme sampling variability and are identified as follows: (F) too unreliable to be published."
+12,"The following standard symbols are used in this Statistics Canada table: (..) for figures not available for a specific reference period and (...) for figures not applicable."
+13,"Percentages are rounded to the nearest tenth. Numbers are rounded to the nearest hundred."
+14,"Census population counts have been used to produce the population projection counts. These counts are used to ensure that the Canadian Community Health Survey (CCHS) survey weights and resulting estimates included in this table are consistent with known population totals."
+15,"Beginning with the 2022 cycle of CCHS, quality flags are applied to estimates based on the sample size within the domain of estimation. The flag (E) signifies an estimate with poorer quality which should be used with caution. The flag (F) signifies an estimate with a quality that is to unreliable to be published. When there is no quality flag applied to the data, users should use the estimated confidence intervals as an indicator of quality for the statistics."
+
+
+
+"How to cite: Statistics Canada. Table 13-10-0096-05  Life satisfaction, satisfied or very satisfied, by age group"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310009605
